@@ -1,4 +1,5 @@
 # caszcc
-this profile is outdated so i'll get around to updating it later  >:D
+i'm not using niri anymore, switched to hyprland so i can still developing a nice polished rice (and until university forces me to switch to windows again lol)
 
-![](https://i.imgur.com/gvhGpq3.png)
+last screenshot:
+![](https://i.imgur.com/sHebkxl.png)
